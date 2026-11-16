@@ -14,6 +14,7 @@ Contents:
    getting-started
    usage
    api
+   ci-test-replay
 
 Indices and tables
 ==================
